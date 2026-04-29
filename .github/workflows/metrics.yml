@@ -33,5 +33,4 @@ jobs:
 
           # Repository stats
           plugin_repositories: yes
-          # TODO: set featured repositories, e.g. ForTemLabs/fortem,ForTemLabs/fortem-batch-manager
-          plugin_repositories_featured:
+          plugin_repositories_featured: ForTemLabs/fortem,ForTemLabs/sdk-js,ForTemLabs/fortem-sdk-unity,ForTemLabs/fortem-docs
